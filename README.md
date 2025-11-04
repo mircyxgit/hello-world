@@ -6,3 +6,5 @@ am scris o noua linie pt a testa git pull
 vrf daca s a propagat in remote rep github
 
 #am costruit un branch FRDCS
+
+##am creat FRDCS2 un branch local ca sa-l push to github :)00
